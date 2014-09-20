@@ -1,0 +1,20 @@
+- "Sample 1":
+    description: "Ipsam ut magni rerum et voluptatibus ipsum omnis consectetur. Ipsum nisi et sint enim ea ut. Voluptas odio minus voluptas iure ad ut eum in. Et qui nobis quia mollitia omnis pariatur rerum ipsa."
+    category: "portraits"
+    image: "/images/work/full/abstract_1.jpg"
+
+- "Sample 2":
+    description: "Commodi non occaecati nisi consequatur. Aliquid ullam similique et atque adipisci illo aperiam. Quis dolor et molestiae dolor et et."
+    category: "portraits"
+    image: "/images/work/thumbs/image-01.jpg"
+
+- "Sample 3":
+    description: "Voluptas quo qui praesentium in quam. Vitae facere quod repellendus cupiditate non. Quidem esse quia minima ut quod et magni animi. Sed exercitationem ea qui autem dolor numquam. Enim nostrum dolorum deleniti."
+    category: "music"
+    image: "/images/work/thumbs/image-01.jpg"
+
+- "Sample 4":
+    description: "Aut saepe qui aspernatur sapiente. Et aperiam ut quia labore aut doloribus. In aspernatur pariatur aperiam odit consequatur ducimus sunt. Optio non non reiciendis ut nihil non. Deleniti laborum aspernatur quia."
+    category: "abstracts"
+    image: "/images/work/thumbs/image-01.jpg"
+
